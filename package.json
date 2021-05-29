@@ -1,4 +1,5 @@
 {
+  "name": "react-native-slider",
   "private": true,
   "workspaces": ["src", "example"],
   "scripts": {
